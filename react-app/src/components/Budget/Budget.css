@@ -1,0 +1,24 @@
+.test{
+    border: 5px solid red;
+}
+.container{
+    min-width: 100%;
+    min-height: 100%;
+}
+.section1{
+    height: 300px;
+    min-width: 100%;
+}
+/* .flex-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: normal;
+    align-items: normal;
+    align-content: normal;
+} */
+
+.block{
+    height: 300px;
+    min-width: 100;
+}

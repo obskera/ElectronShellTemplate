@@ -1,0 +1,30 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "Budget App",
+  "main": "main.js",
+  "scripts": {
+    "test": "tester",
+    "start": "electron ."
+  },
+  "keywords": [
+    "React",
+    "+",
+    "TypeScript",
+    "+",
+    "Vite",
+    "+",
+    "Electron"
+  ],
+  "author": "Rob T.",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/node": "^20.3.2",
+    "electron": "^25.2.0"
+  },
+  "dependencies": {
+    "electron-settings": "^4.0.2",
+    "electron-store": "^8.1.0",
+    "os": "^0.1.2"
+  }
+}
